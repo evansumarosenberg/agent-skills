@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slidev Rapid Iteration"
+  short_description: "Fast, user-guided Slidev deck editing"
+  default_prompt: "Use $slidev-rapid-iteration to make a focused change to this Slidev deck."
