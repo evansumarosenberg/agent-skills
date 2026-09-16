@@ -1,0 +1,6 @@
+interface:
+  display_name: "Adversarial Interview"
+  short_description: "Pressure-test a proposal with an independent critic"
+  default_prompt: "Use $adversarial-interview to challenge this proposal before I proceed."
+policy:
+  allow_implicit_invocation: false
