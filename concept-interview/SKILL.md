@@ -31,7 +31,7 @@ Use the active project directory as the project root unless the user identifies 
 
 Create `.plans/` at the project root. Ensure the root `.gitignore` contains `/.plans/`, preserving existing entries and avoiding duplicates.
 
-Write the agreed concept to `.plans/concept.md`. If that file already describes a different concept, choose a short descriptive filename instead of overwriting it. Keep the document concise and provisional. Capture:
+Write the agreed concept to a short, descriptive kebab-case filename in `.plans/`, derived from its working title or central idea (for example, `.plans/neighborhood-tool-library.md`). Keep the document concise and provisional. Capture:
 
 - the working title and concept summary;
 - the problem or opportunity and desired outcome;

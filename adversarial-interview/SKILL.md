@@ -5,11 +5,11 @@ description: Delegate an independent adversarial review of a proposed concept, p
 
 # Adversarial Interview
 
-Pressure-test the proposal rather than validating it. This skill may follow a concept interview or operate independently.
+Pressure-test the proposal rather than validating it. This skill may follow a concept or design interview or operate independently.
 
 ## Prepare the Review
 
-Identify the documents that most directly express the proposal and its assumptions. Prefer files the user names and an existing concept document such as `.plans/concept.md`; include other material only when it materially affects the idea being reviewed.
+Identify the documents that most directly express the proposal and its assumptions. Prefer files the user names and relevant documents in `.plans/` if applicable; include other material only when it materially affects the idea being reviewed.
 
 The reviewer must not inherit the parent conversation. If the proposal exists only in the invocation message, pass that text verbatim as neutral review material. If neither the documents nor the invocation contain enough information to identify the proposal, ask the user for the missing artifact or context before delegating.
 
@@ -41,4 +41,4 @@ Discuss the review with the user and collaboratively choose among:
 - reconceptualize it from first principles;
 - scrap it.
 
-The review is advisory. Do not edit documents, revise the concept, begin planning or implementation, delete work, or take any other follow-on action until the user approves a specific course of action. Approval of one action does not imply approval of others.
+The review is advisory. Do not edit documents, revise the proposal, begin planning or implementation, delete work, or take any other follow-on action until the user approves a specific course of action. Approval of one action does not imply approval of others.
