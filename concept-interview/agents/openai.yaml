@@ -1,0 +1,6 @@
+interface:
+  display_name: "Concept Interview"
+  short_description: "Clarify a project concept before specification"
+  default_prompt: "Use $concept-interview to clarify the core concept for my project."
+policy:
+  allow_implicit_invocation: false
